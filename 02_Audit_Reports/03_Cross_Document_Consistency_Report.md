@@ -16,7 +16,7 @@
 | **Institution** | Jaya Engineering College (JEC) | **CONSISTENT** | Added to metadata tables across all Word documents. |
 | **University & Reg.** | Anna University (Regulation 2021) | **CONSISTENT** | Stated on all major phase documents and final report cover. |
 | **Department** | Computer Science and Engineering (CSE) | **CONSISTENT** | Stated on final report and FSD document. |
-| **Team Members** | 5 Members (Akash Prabhu. P, Gowtham. R, Karthik. K, Gokul Raj K, Douglas Christopher) | **CONSISTENT** | Source `frds` lacked explicit member tables. Full 5-member roster with register numbers and roles embedded in Final Report and FSD. |
+| **Team Members** | 5 Members (Akash Prabhu. P, Gowtham. R, Karthik. K, Gokul Raj K, Douglas Christopher. I) | **CONSISTENT** | Source `frds` lacked explicit member tables. Full 5-member roster with register numbers and roles embedded in Final Report and FSD. |
 | **Faculty Guide** | To be confirmed | **CONSISTENT** | Preserved as `[Faculty Guide / Supervisor Name - To be confirmed]`. No name fabricated. |
 | **ServiceNow Table** | `Incident Workflow` (`u_incident_workflow`) | **CONSISTENT** | Consistently referenced across DFD, Tech Stack, FSD, UAT, and Final Report. |
 | **Table Fields** | Number, Caller, Category, Subcategory, Short Description, Description, State, Assigned Group, Assigned To | **CONSISTENT** | Exactly matches Table 0 in `Primary_Implementation_Guide.docx`. |

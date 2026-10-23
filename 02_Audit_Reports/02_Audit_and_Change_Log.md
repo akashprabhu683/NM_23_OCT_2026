@@ -92,7 +92,7 @@ This log details all modifications, corrections, and completions performed acros
     2. Gowtham. R (110824104020) - Table & Field Schema Designer
     3. Karthik. K (110824104032) - Flow Logic & Trigger Developer
     4. Gokul Raj K (110824104019) - Notification & Dependent Choice Rules
-    5. Douglas Christopher (110824104017) - Testing & Quality Assurance
+    5. Douglas Christopher. I (110824104017) - Testing & Quality Assurance
   - Replaced screenshot placeholders with genuine screenshots extracted from our primary evidence (`Primary_Implementation_Guide.docx`).
 - **Reason:** Friends had no FSD documentation; completed missing requirement using official template and authentic team evidence.
 - **Evidence Supporting Correction:** Master Prompt Section 2 & `Primary_Implementation_Guide.docx`.

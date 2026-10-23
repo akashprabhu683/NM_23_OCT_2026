@@ -62,7 +62,7 @@ All 21 final deliverables, 42 implementation screenshots, and 5 supporting audit
   2. Gowtham. R — 110824104020
   3. Karthik. K — 110824104032
   4. Gokul Raj K — 110824104019
-  5. Douglas Christopher — 110824104017
+  5. Douglas Christopher. I — 110824104017
 - **Faculty Guide Field:** Retained strictly as `[Faculty Guide / Supervisor Name - To be confirmed]`. No name, designation, or signatures fabricated.
 - **Result:** **PASS**
 

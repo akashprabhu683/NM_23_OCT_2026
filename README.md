@@ -24,7 +24,7 @@ The system automates ticket categorization and subcategorization on the **Servic
 | 2 | **Gowtham. R** | 110824104020 | Developer / Technical Documentation |
 | 3 | **Karthik. K** | 110824104032 | QA Engineer / Test Execution Lead |
 | 4 | **Gokul Raj K** | 110824104019 | Systems Analyst / Requirements Engineer |
-| 5 | **Douglas Christopher** | 110824104017 | Scrum Master / Project Planning |
+| 5 | **Douglas Christopher. I** | 110824104017 | Scrum Master / Project Planning |
 
 ---
 
